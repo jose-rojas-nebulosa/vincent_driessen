@@ -1,1 +1,6 @@
+modified
+<<<<<<< HEAD
 00110010 11000010
+=======
+00011101 11100010 11111110 third step. 
+>>>>>>> release/branches

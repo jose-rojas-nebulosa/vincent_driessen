@@ -1,0 +1,4 @@
+# fixed:
+
+# from Git
+fatal: refusing to merge unrelated histories 
